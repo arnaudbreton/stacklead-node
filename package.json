@@ -1,0 +1,23 @@
+{
+  "name": "stacklead-node",
+  "version": "0.1.0",
+  "description": "Short Node script to query Stacklead (stacklead.com) API and retrieve people's information from email",
+  "main": "stacklead.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/arnaudbreton/stacklead-node.git"
+  },
+  "author": "Arnaud BRETON <arn.breton@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arnaudbreton/stacklead-node/issues"
+  },
+  "homepage": "https://github.com/arnaudbreton/stacklead-node",
+  "dependencies": {
+    "json2csv": "~2.2.1",
+    "express": "~3.5.0"
+  }
+}

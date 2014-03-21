@@ -1,0 +1,84 @@
+{
+    "person": {
+        "email": "rebecca@blueocean.com",
+        "name": "Rebecca (Becca) Schroeder",
+        "first_name": "Rebecca",
+        "last_name": "Schroeder",
+        "headline": "Sr. Sales Representative at Blue Ocean Tech.",
+        "location": "Greater Denver Area",
+        "job_title": "Sr. Sales Representative",
+        "image_url": "https://s3.amazonaws.com/uifaces/faces/twitter/jennyshen/128.jpg",
+        "experiences": [{
+            "title": "Sr. Sales Representative",
+            "name": "Blue Ocean Technologies",
+            "description": "Blue Ocean's cloud-based ad infrastructure increases conversion rates by embedding interactions inside video.",
+            "duration": "(5 months)",
+            "start": "October 2013",
+            "end": "Present",
+            "linkedin": {
+                "url": "http://linkedin.com/company/504748?trk=prof-exp-company-name"
+            }
+        }],
+        "linkedin": {
+            "url": "http://www.linkedin.com/in/RebeccaSchroeder",
+            "username": "RebeccaSchroeder",
+            "connections": 500
+        },
+        "twitter": {
+            "url": "http://www.twitter.com/BeccaSchroe",
+            "username": "BeccaSchroe",
+            "followers": 252
+        }
+    },
+    "company": {
+        "name": "Blue Ocean Technologies",
+        "headline": "The ultimate interactive video ad service",
+        "description": "Video Ad Infrastructure",
+        "employees": 127,
+        "industry": "Information Technology and Services",
+        "category": "enterprise",
+        "image_url": "http://placehold.it/150x150",
+        "website": "http://www.sendgrid.com/",
+        "type": "Privately Held",
+        "funding": "$19.4M",
+        "tags": "techstars, techstars-boulder-2010",
+        "linkedin": {
+            "url": "http://linkedin.com/company/349859927"
+        },
+        "crunchbase": {
+            "url": "http://www.crunchbase.com/company/blueocean"
+        },
+        "twitter": {
+            "url": "http://www.twitter.com/BlueOcean",
+            "username": "BlueOcean",
+            "followers": 2459
+        }
+    },
+    "domain": {
+        "name": "blueoceantech.com",
+        "personal": false,
+        "disposable": false,
+        "interesting": true,
+        "description": "Get started for free with disruptive in-video advertising.",
+        "alexa": {
+            "global": {
+                "change": "Down 786 versus the previous 3 months.",
+                "rank": 9362
+            }
+        },
+        "tools": [
+            "Google Analytics",
+            "Quantcast",
+            "Quantcast",
+            "Crazy Egg",
+            "DoubleClick",
+            "Right Media",
+            "Marketo",
+            "AppNexus",
+            "Google AdWords Conversion",
+            "AdRoll",
+            "Optimizely",
+            "Perfect Audience"
+        ]
+    }
+}

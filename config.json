@@ -1,0 +1,13 @@
+{
+    "mode": "test",
+    "personTemplate": {
+        "fullName": "",
+        "websites": [],
+        "currentOrganization": "",
+        "twitter/bio": "",
+        "twitter/followers": "",
+        "twitter/following": "",
+        "linkedin/bio": "",
+        "linkedin/url": ""
+    }
+}
